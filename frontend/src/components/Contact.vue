@@ -33,7 +33,7 @@
         </a>
       </div>
       <p class="text-gray-500">
-        &copy; {{ new Date().getFullYear() }} Rizal Anggoro. Dibuat dengan <i class="bi bi-heart-fill text-black"></i>
+        &copy; {{ new Date().getFullYear() }} Andre Aditia. Dibuat dengan <i class="bi bi-heart-fill text-black"></i>
       </p>
     </div>
   </footer>

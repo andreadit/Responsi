@@ -5,7 +5,7 @@
         class="text-7xl font-extrabold text-gray-900 mb-6 leading-tight drop-shadow-lg animate-slide-in-left"
         style="animation-delay: 200ms"
       >
-        Halo, Saya <span class="text-indigo-700">Rizal Anggoro</span>
+        Halo, Saya <span class="text-indigo-700">Andre Aditia</span>
       </h1>
       <p class="text-xl text-gray-600 mb-8 animate-slide-in-left" style="animation-delay: 400ms">
         Mahasiswa Teknik Informatika yang bersemangat dalam pengembangan web dan desain antarmuka.

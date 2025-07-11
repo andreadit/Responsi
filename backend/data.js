@@ -1,8 +1,8 @@
 
 const educationHistory = [{ id: 1, period: '2023 - Sekarang', institution: 'Universitas Amikom Yogyakarta', major: 'S1 - Teknik Informatika', logo: '/img/logo-kuliah.png' }, 
-  { id: 2, period: '2020 - 2023', institution: 'SMA Negeri Jumapolo', major: 'MIPA', logo: '/img/logo-sma.png' },
-{id: 3, period: '2017 - 2020', institution: 'SMP Negeri 01 Jumapolo',logo:'/img/logo-smp.jpg' },
-{id: 4, period: '2011 - 2017', institution: 'SD Negeri 02 Kadipiro',logo:'/img/logo-sd.png' }]; 
+  { id: 2, period: '2020 - 2023', institution: 'SMA Negeri 01 Bangunrejo', major: 'MIPA', logo: '/img/logo-sma.png' },
+{id: 3, period: '2017 - 2020', institution: 'SMP Negeri 02 Bangunrejo',logo:'/img/logo-smp.jpg' },
+{id: 4, period: '2011 - 2017', institution: 'SD Negeri 04 Tanjungjaya',logo:'/img/logo-sd.png' }]; 
 const skills = [   { name: 'Vue.js', level: 'Mahir' }, { name: 'JavaScript', level: 'Mahir' }, 
   { name: 'Tailwind CSS', level: 'Menengah' }, { name: 'Node.js', level: 'Menengah' }, 
   { name: 'Express.js', level: 'Menengah' }, { name: 'MySQL', level: 'Mahir' }, 
